@@ -1,0 +1,3 @@
+Modeled volatility and shockflow using GARCH/VAR for time series data;identified influential assets via eigenvector centrality
+Applied MF-DFA on NSE/BSE indices to derive scaling exponents and spectrum width, capturing multifractality.
+Built fuzzy logic–based forecasting systems integrating behavioral finance for uncertainty-aware market trend prediction.
